@@ -29,7 +29,7 @@ ${client.channels.size} channels and ${client.users.size} users cached!
 I am logged in and ready to roll!
 LET'S GO!
 ------------------------------------------------------
-----------Bot created by Blue Malgeran#3106-----------
+----------Bot created by CAPTAIN COOL#0044-----------
 ------------------------------------------------------
 -----------------Bot's commands logs------------------`
 
@@ -115,7 +115,7 @@ client.on("message", async message => {
             description: "This is the info about the bot",
             fields: [{
                 name: "Created by:",
-                value: "This bot created by [Blue Malgeran](http://BlueMalgeran.com)"
+                value: "This bot created by [CAPTAIN COOL] (https://discord.gg/7VNNYpN)"
               },
               {
                 name: "Made with:",
@@ -123,11 +123,11 @@ client.on("message", async message => {
               },
               {
                 name: "Contact me:",
-                value: "_**Blue Malgeran#3106**_"
+                value: "_**CAPTAIN COOL#0044**_"
               },
               {
                 name: "Social Media",
-                value: "[Twitter](https://twitter.com/BlueMalgeran) | [Steam](http://steamcommunity.com/id/BlueMalgeran/) | [GitHub](https://github.com/BlueMalgeran)"
+                value: "Sorry Nothing Personal"
               },
               {
                 name: "Invite the bot here",
@@ -137,7 +137,7 @@ client.on("message", async message => {
             timestamp: new Date(),
             footer: {
               icon_url: client.user.avatarURL,
-              text: "© NotABot"
+              text: "© CAPTAIN COOL"
             }
           }
         });
