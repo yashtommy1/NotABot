@@ -1,8 +1,8 @@
 {
-  "botPREFIX": "b.",
-  "botTOKEN": "TOKEN",
+  "botPREFIX": "cc!",
+  "botTOKEN": "NjA3MTkzODAzMTAyNzQ4Njcz.XUWSGA.WdG5X8J0cfYa28TxF0AK8vfJzzE",
   "weatherAPI": "Weather API here https://openweathermap.org",
-  "ownerID": "123456789123456",
-  "logsChannelID": "Text channel's id for logs",
+  "ownerID": "553256923340865567",
+  "logsChannelID": "599204526045528074",
   "statusTYPE": "WATCHING"
 }
